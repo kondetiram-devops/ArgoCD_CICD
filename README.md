@@ -1,4 +1,4 @@
-[# ArgoCD_CICD](https://operatorhub.io/operator/argocd-operator
+https://operatorhub.io/operator/argocd-operator
 
 
 1. Install Operator Lifecycle Manager (OLM), a tool to help manage the Operators running on your cluster.
@@ -51,6 +51,3 @@ kubectl edit secret example-argocd-cluster
 
 echo ZzNRZnlpbG9PWmgwdTJVTTVObUpIYjZMVENxc1J0YXY= | base64 -d
 
-
-
-)
