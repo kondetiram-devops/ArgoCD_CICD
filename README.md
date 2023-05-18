@@ -37,7 +37,7 @@ kubectl get svc
 Access the UI from any of the nodes before that open the inbound rule
 
 
-6. Creds for Argo DC
+6. Creds for ArgoCD
 
 Username: admin
 Password:
