@@ -41,7 +41,6 @@ Access the UI from any of the nodes before that open the inbound rule
 
 Username: admin
 Password:
-
 kubectl get secret
 (Argo CD stores the passwords in secrets)
 
